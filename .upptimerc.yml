@@ -5,10 +5,8 @@ repo: upptime-test # The name of this repository
 sites:
   - name: Crevero Website
     url: https://crevero.net
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Vintesencja
+    url: https://vintesencja.pl
 
 status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
