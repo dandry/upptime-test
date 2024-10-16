@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/crevero.net.ico",
     "slug": "crevero-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1116,
-    "timeDay": 993,
-    "timeWeek": 1123,
-    "timeMonth": 1116,
-    "timeYear": 1116,
+    "uptime": "98.25%",
+    "uptimeDay": "86.55%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "98.25%",
+    "time": 1133,
+    "timeDay": 956,
+    "timeWeek": 1152,
+    "timeMonth": 1133,
+    "timeYear": 1133,
     "dailyMinutesDown": {
-      "2024-10-15": 0
+      "2024-10-16": 83,
+      "2024-10-15": 111
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 827,
-    "timeDay": 609,
-    "timeWeek": 827,
-    "timeMonth": 827,
-    "timeYear": 827,
+    "time": 1188,
+    "timeDay": 2269,
+    "timeWeek": 1188,
+    "timeMonth": 1188,
+    "timeYear": 1188,
     "dailyMinutesDown": {}
   }
 ]
