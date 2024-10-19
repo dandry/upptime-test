@@ -1,7 +1,7 @@
 url: https://vintesencja.pl
-status: up
-code: 200
-responseTime: 708
-lastUpdated: 2024-10-18T23:10:37.385Z
+status: down
+code: 500
+responseTime: 630
+lastUpdated: 2024-10-19T07:24:47.610Z
 startTime: 2024-10-13T07:15:46.161Z
 generator: Upptime <https://github.com/upptime/upptime>
